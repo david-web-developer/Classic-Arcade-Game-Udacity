@@ -1,8 +1,8 @@
-# arcade-game
+# Classic-Arcade-Game
 
 ## Installation steps:
 
-Start by clicking on this link https://github.com/Suzy-Nazmy/arcade-game
+Start by clicking on this link https://github.com/david-web-developer/Classic-Arcade-Game-Udacity
 
 1- Then download the repo zip
 
